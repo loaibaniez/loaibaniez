@@ -10,7 +10,7 @@
 
 💞️ Looking for opportunities in Data Visualization where I can collaborate with multidisciplinary teams, tackle report inquiries creatively, and deliver results that matter.
 
-🤍 I'm passionate about my work and solution-oriented: when a new issue comes up, I assess feasibility and propose creative, data-driven answers — which, funny enough, is exactly what a certain job description out there seems to be looking for. Last year, McKinsey's Forward Program sharpened that instinct, giving me a hypothesis-led approach to problem-solving and a structured methodology to turn findings into clear, compelling communication.
+🤍 I'm passionate about my work and solution-oriented: when a new issue comes up, I assess feasibility and propose creative, data-driven answers. Last year, McKinsey's Forward Program sharpened that instinct, giving me a hypothesis-led approach to problem-solving and a structured methodology to turn findings into clear, compelling communication.
 
 📫 Reach me at: loanaibaniez@gmail.com
 
