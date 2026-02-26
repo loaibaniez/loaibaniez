@@ -2,7 +2,7 @@
 
 👀 Data Visualization Specialist at the Government of the City of Buenos Aires, with hands-on experience maintaining, refreshing and enhancing reports and dashboards for real-world public sector use cases.
 
-🛠️ My core stack: Power BI (including DAX, data modeling, Gateway & reports maintenance), Power Automate, Looker Studio, and Qualtrics. I work with PostgreSQL, SharePoint , and Google Sheets for data gathering and transformation — and I bring UX/UI thinking to the front end, designing dashboards that are not only accurate, but intuitive enough to move people to action. Currently sharpening my SQL and Python skills on DataCamp.
+🛠️ My core stack: Power BI (including DAX, data modeling, Gateway & reports maintenance), Power Automate, Looker Studio, and Qualtrics. I work with PostgreSQL, SharePoint Lists and Google Sheets for data gathering and transformation — and I bring UX/UI thinking to the front end, designing dashboards that are not only accurate, but intuitive enough to move people to action. Currently sharpening my SQL and Python skills on DataCamp.
 
 📖 Undergraduate Advanced Student of International Relations — which gives me a strong foundation for translating complex data into clear, decision-ready insights.
 
