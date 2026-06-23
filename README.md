@@ -6,7 +6,7 @@
 
 📖 Undergraduate Advanced Student of International Relations — which gives me a strong foundation for translating complex data into clear, decision-ready insights.
 
-🌱 Currently driving end-to-end reporting improvements and looking to expand my knowledge in Google Cloud Platform (GCP).
+🌱 Currently driving end-to-end reporting improvements and looking to expand my knowledge in Microsoft Fabric or Google Cloud Platform (GCP).
 
 💞️ Looking for opportunities in Data Visualization where I can collaborate with multidisciplinary teams, tackle report inquiries creatively, and deliver results that matter.
 
